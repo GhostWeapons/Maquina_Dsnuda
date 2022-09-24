@@ -25,3 +25,4 @@ foreach (ManagementObject obj in myVideoObject.Get())
 
 
 }
+asdsadas
